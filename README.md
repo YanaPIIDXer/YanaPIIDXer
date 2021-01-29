@@ -90,7 +90,7 @@
 
 #### 自社開発ゲームのクライアントサイド（ネイティブアプリケーション）
 
-- 社内の事情も絡み、途中からメインプログラマを担当。
+- （社内の事情も絡み）途中からメインプログラマを担当。
 - とりあえず**カオス極まりない**プロジェクト
   - ゲームエンジンを***３つ跨いだ***。
     - Unity（数ヶ月） → Unreal Engine3（２年ほど） → Unreal Engine4
@@ -116,6 +116,6 @@
 
 ## 今やっている事
 
-- [HazelNetworkingの実験](https://github.com/YanaPIIDXer/HazelTest)
+- [Hazel-Networkingの実験](https://github.com/YanaPIIDXer/HazelTest)
   - 「Among Us」と言うゲームが流行っていて色々調べていたところ、[Hazel-Networking](https://github.com/willardf/Hazel-Networking)と言うオープンソースライブラリと出会う。
   興味が沸いて試しに使ってみている。
