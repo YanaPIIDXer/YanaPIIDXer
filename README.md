@@ -119,6 +119,5 @@
 
 ## 今やっている事
 
-- [Hazel-Networkingの実験](https://github.com/YanaPIIDXer/HazelTest)
-  - 「Among Us」と言うゲームが流行っていて色々調べていたところ、[Hazel-Networking](https://github.com/willardf/Hazel-Networking)と言うオープンソースライブラリと出会う。
-  興味が沸いて試しに使ってみている。
+- [RailsのCI/CDパイプライン構築実験](https://github.com/YanaPIIDXer/RailsAutoDeployTest)
+  - ゲームとはあまり関係ないが一応サーバサイド（DevOps）・インフラの実験
