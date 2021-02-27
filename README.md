@@ -119,5 +119,7 @@
 
 ## 今やっている事
 
-- [RailsのCI/CDパイプライン構築実験](https://github.com/YanaPIIDXer/RailsAutoDeployTest)
-  - ゲームとはあまり関係ないが一応サーバサイド（DevOps）・インフラの実験
+- アクションゲーム開発
+  - リハビリ兼ねて
+  - 有償アセット利用のためプライベートリポジトリ
+  - 公開予定無し
