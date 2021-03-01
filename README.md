@@ -84,7 +84,7 @@
 |---|-----|
 |機械学習|概念の段階で挫折状態|
 |VR|機材が手出しし辛い値段|
-|Photon Realtime|PhotonはServerしか触ったことがないので。Kindle書籍購入済み|
+|Photon Realtime|PhotonはServerしか触ったことがないので。※一応Kindle書籍購入|
 
 ## 職務経歴
 
