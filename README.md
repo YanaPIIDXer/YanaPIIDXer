@@ -2,11 +2,10 @@
 
 ## 基本情報
 
-| key     | value                                           |
-| ------- | ----------------------------------------------- |
-| Name    | やなぴ                                          |
-| Twitter | [@YanaPIIDXer](https://twitter.com/YanaPIIDXer) |
-| Qiita   | [Qiita](https://qiita.com/YanaPIIDXer)          |
+| key   | value                                  |
+| ----- | -------------------------------------- |
+| Name  | やなぴ                                 |
+| Qiita | [Qiita](https://qiita.com/YanaPIIDXer) |
 
 ## スキル
 オブジェクト指向言語が主。  
