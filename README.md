@@ -126,7 +126,6 @@
 ## 今やっている事
 
 - フリーランスとしての本格始動を見越し、[UnityでのMMOゲーム作成](https://github.com/YanaPIIDXer/UnityAnpanMMO)
-  - リポジトリは現在の所Privateだが、そのうちPublicにする可能性あり
 - [簡単なソシャゲの開発実験](https://github.com/YanaPIIDXer/SimpleSocialGame)
   - 前職で開発していたのはリアルタイム型のオンラインゲームであり、こちらの知見が無いので手を出してみる
   - また、AssetBundleの知識も欲しいがそれはこっちが適任と考えた
