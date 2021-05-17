@@ -80,11 +80,11 @@
 
 ## 興味・関心がある技術
 
-| key                            | value                                                           |
-| ------------------------------ | --------------------------------------------------------------- |
-| 機械学習（ディープラーニング） | 概念の段階で挫折状態                                            |
-| VR                             | 機材が手出しし辛い値段                                          |
-| Photon Realtime                | PhotonはServerしか触ったことがないので。※一応Kindle書籍購入済み |
+| key                            | value                  |
+| ------------------------------ | ---------------------- |
+| 機械学習（ディープラーニング） | 概念の段階で挫折状態   |
+| VR                             | 機材が手出しし辛い値段 |
+| Photon Realtime                | 検証中                 |
 
 ## 職務経歴
 
@@ -129,3 +129,4 @@
 
 - AssetBundle（Unity）やSequencer（UE4）関係等、各種技術の実用的な研究
 - [PhotonServerを使った試験的な開発](https://github.com/YanaPIIDXer/PhotonServerTest)による、より良い設計の模索
+- [Photon Realtimeの実験](https://github.com/YanaPIIDXer/PhotonRealtimeTest)
