@@ -127,3 +127,4 @@
 ## 今やっている事
 
 - AssetBundle（Unity）やSequencer（UE4）関係等、各種技術の実用的な研究
+- [PhotonServerを使った試験的な開発](https://github.com/YanaPIIXDer/PhotonServerTest)による、より良い設計の模索
