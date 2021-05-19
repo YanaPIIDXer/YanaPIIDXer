@@ -39,6 +39,7 @@
 | Photon Server      | AWS（EC2）へのデプロイで挫折しただけで開発自体は十分可能            |
 | UniRx              | 実務経験はないけどかなり便利っすねこれ                              |
 | Photon Realtime    | ある程度                                                            |
+| Zenject            | 軽く入門した程度                                                    |
 
 #### フロントエンド（Web）
 
