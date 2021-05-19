@@ -127,5 +127,6 @@
 
 ## 今やっている事
 
-- AssetBundle（Unity）やSequencer（UE4）関係等、各種技術の実用的な研究
-- [PhotonServerを使った試験的な開発](https://github.com/YanaPIIDXer/PhotonServerTest)による、より良い設計の模索
+- [PhotonServerを使った試験的な開発](https://github.com/YanaPIIDXer/PhotonServerAnpanGame)による、より良い設計の模索
+- WindowsServer
+  - PhotonServerの運用に必要。まったりと。
