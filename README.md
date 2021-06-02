@@ -133,4 +133,4 @@
 
 ## 今やっている事
 
-- [PhotonServerを使った試験的な開発](https://github.com/YanaPIIDXer/PhotonServerAnpanGame)による、より良い設計の模索
+- （自分にとって）新しい技術に色々手を出したりとか
